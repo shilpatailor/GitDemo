@@ -61,6 +61,9 @@ public class ContactsPageTest extends TestBase{
 		System.out.println("Test four");
 		System.out.println("Test filve");
 		System.out.println("Test six");
+		
+		System.out.println("Test two testcase1");
+		System.out.println("Test three testcase1");
 	}
 	
 	@Test(priority=3)
