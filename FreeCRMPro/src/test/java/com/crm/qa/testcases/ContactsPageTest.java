@@ -45,6 +45,9 @@ public class ContactsPageTest extends TestBase{
 	public void verifyContactsPageLableTest()
 	{
 		Assert.assertTrue(contactPage.verifyContactsLable());
+		System.out.println("Test one");
+		System.out.println("Test two");
+		System.out.println("Test three");
 	}
 	
 	@Test(priority=2)
