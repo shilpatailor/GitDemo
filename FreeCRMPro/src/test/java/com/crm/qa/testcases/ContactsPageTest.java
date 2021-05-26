@@ -54,6 +54,9 @@ public class ContactsPageTest extends TestBase{
 	public void verifySelectContactsNameTest()
 	{
 		contactPage.selectContactsByName("Apple Malvia");
+		System.out.println("Test four");
+		System.out.println("Test filve");
+		System.out.println("Test six");
 	}
 	
 	@Test(priority=3)
