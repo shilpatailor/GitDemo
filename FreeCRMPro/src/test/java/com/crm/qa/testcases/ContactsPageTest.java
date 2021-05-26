@@ -48,6 +48,10 @@ public class ContactsPageTest extends TestBase{
 		System.out.println("Test one");
 		System.out.println("Test two");
 		System.out.println("Test three");
+		
+		System.out.println("Test one testcase1");
+		System.out.println("Test two testcase1");
+		System.out.println("Test three testcase1");
 	}
 	
 	@Test(priority=2)
